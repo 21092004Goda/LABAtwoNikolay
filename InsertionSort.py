@@ -23,3 +23,7 @@ def MergeSort(mas):
 
 print("Good bye my friend...")
 print("It is programm good sort")
+
+
+mas = [1,4,2,7,5,3,5,3,1]
+print(MargeSort(mas))
