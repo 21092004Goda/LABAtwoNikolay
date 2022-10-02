@@ -20,3 +20,6 @@ def MergeSort(mas):
     right_mas = MergeSort(mas[center:])
 
     return SplitMas(left_mas, right_mas)
+
+print("Good bye my friend...")
+print("It is programm good sort")
